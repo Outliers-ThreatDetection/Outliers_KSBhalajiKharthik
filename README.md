@@ -9,7 +9,3 @@ This repository contains the dataset and code for the Machine Learning model dev
 * [K S Bhalaji Kharthik](https://github.com/Bhalajikharthik)
 * [Sriram S](https://github.com/suburban-daredevil)
 * [Vishvakar S](https://github.com/Vish-10)
-
-### Problem Statement
-
-Threat and violence against women, children and the vulnerable sections of the society is increasing on a daily basis.
